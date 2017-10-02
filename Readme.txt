@@ -9,3 +9,5 @@ Feature1
 For Conflict
 Encore un conflit
 Conflict again !
+Feature1
+Feature 2 changes

@@ -13,3 +13,4 @@ Feature1
 Feature 2 changes
 feature3
 Fixing bug 1234
+Added new bug
